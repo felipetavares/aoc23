@@ -18,3 +18,9 @@ python <file>.py
 ```
 
 Have fun folks!
+
+## Note on Inputs
+
+All the solutions expect a file called `input` (e.g.: `1/input`). They are not
+pushed to the repo according to AoC etiquette. You can download your own and put
+them in the appropriate directories if you want to check solutions.
